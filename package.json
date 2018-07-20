@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kronostechnologies/eslint-config-kronos#readme",
   "dependencies": {
+    "babel-eslint": "^8.0.3",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
