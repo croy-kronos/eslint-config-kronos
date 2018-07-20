@@ -2,7 +2,7 @@
   "name": "eslint-config-kronos",
   "version": "1.0.0",
   "description": "Kronos' eslint config",
-  "author": "Kronos",
+  "author": "Kronos Technologies",
   "license": "SEE LICENCE IN LICENCE",
   "homepage": "https://github.com/kronostechnologies/eslint-config-kronos#readme",
   "bugs": {
