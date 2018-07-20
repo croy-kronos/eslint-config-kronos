@@ -2,6 +2,12 @@
   "name": "eslint-config-kronos",
   "version": "1.0.0",
   "description": "Kronos' eslint config",
+  "author": "Kronos",
+  "license": "SEE LICENCE IN LICENCE",
+  "homepage": "https://github.com/kronostechnologies/eslint-config-kronos#readme",
+  "bugs": {
+    "url": "https://github.com/kronostechnologies/eslint-config-kronos/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kronostechnologies/eslint-config-kronos.git"
@@ -9,14 +15,9 @@
   "keywords": [
     "eslint",
     "eslintconfig",
-    "krono"
+    "kronos"
   ],
-  "author": "Kronos",
-  "license": "SEE LICENCE IN LICENCE",
-  "bugs": {
-    "url": "https://github.com/kronostechnologies/eslint-config-kronos/issues"
-  },
-  "homepage": "https://github.com/kronostechnologies/eslint-config-kronos#readme",
+  "main": ".eslintrc",
   "dependencies": {
     "babel-eslint": "^8.0.3",
     "eslint-config-airbnb": "^16.1.0",
