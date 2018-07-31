@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Kronos' eslint config",
   "author": "Kronos Technologies",
-  "license": "SEE LICENCE IN LICENCE",
+  "license": "MIT",
   "homepage": "https://github.com/kronostechnologies/eslint-config-kronos#readme",
   "bugs": {
     "url": "https://github.com/kronostechnologies/eslint-config-kronos/issues"
@@ -24,5 +24,8 @@
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-react": "^7.5.1"
+  },
+  "peerDependencies": {
+    "eslint": "^5.2.0"
   }
 }

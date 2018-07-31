@@ -2,9 +2,7 @@
   "extends": "airbnb",
   "parser": "babel-eslint",
   "parserOptions": {
-    "ecmaFeatures": {
-      "experimentalObjectRestSpread": true
-    }
+    "ecmaVersion": 2018
   },
   "rules": {
     "brace-style": ["error","stroustrup",{"allowSingleLine": true}],
