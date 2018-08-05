@@ -31,7 +31,7 @@
     "quotes": ["warn","single"],
     "react/jsx-filename-extension": "off",
     "react/jsx-indent": "off",
-    "react/jsx-indent-props": ["error","off"],
+    "react/jsx-indent-props": ["error", "tab"],
     "react/jsx-no-bind": "warn",
     "react/jsx-no-undef": "warn",
     "react/prefer-es6-class": "off",
