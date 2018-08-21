@@ -12,7 +12,7 @@
     "func-names": "off",
     "import/extensions": "off",
     "import/no-extraneous-dependencies": "off",
-    "indent": ["error", "tab"],
+    "indent": ["error", "tab", { "SwitchCase": 1 }],
     "jsx-a11y/label-has-for": "off",
     "keyword-spacing": "off",
     "max-len": [2, 220, 2, {"ignoreUrls": true,"ignoreComments": false}],
